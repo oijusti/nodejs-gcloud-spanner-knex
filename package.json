@@ -1,0 +1,13 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@google-cloud/spanner": "^5.18.0",
+    "knex": "^0.95.15",
+    "uuid": "^8.3.2"
+  }
+}
